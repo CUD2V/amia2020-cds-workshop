@@ -1,4 +1,4 @@
-# AMIA 2020 Virtual Annual Symposium
+![AMIA 2020 Virtual Annual Symposium](https://www.amia.org/sites/default/files/AMIA%202020%20Virtual%20Annual%20Symposium_Webpage%20header_1172x240.jpg)
 ## Workshop 01 - The New Digital Age of Clinical Decision Support Tools: Open-Source and Interoperable Approaches for Health Systems
 #### Andrey Soares, PhD<sup>1</sup>; Majid Afshar*, MD, MSCR<sup>2</sup>; Joshua E. Richardson*, PhD, MS, MLIS<sup>3</sup>; Chris Moesel<sup>4</sup>; Anthony Solomonides, PhD<sup>5</sup>; Eleanor Barone*, MD<sup>6</sup>; Eric Pan*, MD<sup>7</sup>; Michael A. Grasso, MD, PhD<sup>8</sup>; Lisa Schilling, MD, MSPH<sup>1</sup>; on behalf of the AMIA Clinical Decision Support Working Group*
 ##### <sup>1</sup>University of Colorado School of Medicine, Aurora, Colorado; <sup>2</sup>Loyola University Chicago, Maywood, IL; <sup>3</sup>RTI International, Chicago, IL; <sup>4</sup>MITRE Corporation, Maclean, VA; <sup>5</sup>Northshore University, Evanston, IL; <sup>6</sup>Veterans Administration Medical Center, Fayetteville, NC; <sup>7</sup>Westat, Rockville, MD; <sup>8</sup>University of Maryland, Baltimore, MD
