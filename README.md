@@ -12,7 +12,7 @@
 ### Prerequisites:
 - Register for a [Unified Medical Language System (UMLS) Account](https://uts.nlm.nih.gov//license.html). It might take 3-5 business days to get approval.
 - You need [Oracle VirtualBox](https://www.virtualbox.org/) installed on your computer
-- Install CDS Sandbox VM and setup the virtual machine on your personal computer (~30 minutes, depending on internet speed). Information with the link to download the VM will be sent to participants and be available in the workshop materials.
+- Install CDS Sandbox VM and setup the virtual machine on your personal computer (~30 minutes, depending on internet speed). Information with the link to download the VM will be available in the workshop materials and GitHub page.
 - Review the [CDS Authoring Tool User Guide](https://cds.ahrq.gov/authoring/documentation)
 ### Acknowledgements:
 We would like to thank the organizations and contributors to the technologies and open-source tools used in this tutorial. 
