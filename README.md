@@ -2,6 +2,7 @@
 ## Workshop 01 - The New Digital Age of Clinical Decision Support Tools: Open-Source and Interoperable Approaches for Health Systems
 #### Andrey Soares, PhD<sup>1</sup>; Majid Afshar*, MD, MSCR<sup>2</sup>; Joshua E. Richardson*, PhD, MS, MLIS<sup>3</sup>; Chris Moesel<sup>4</sup>; Anthony Solomonides, PhD<sup>5</sup>; Eleanor Barone*, MD<sup>6</sup>; Eric Pan*, MD<sup>7</sup>; Michael A. Grasso, MD, PhD<sup>8</sup>; Lisa Schilling, MD, MSPH<sup>1</sup>; on behalf of the AMIA Clinical Decision Support Working Group*
 ##### <sup>1</sup>University of Colorado School of Medicine, Aurora, Colorado; <sup>2</sup>Loyola University Chicago, Maywood, IL; <sup>3</sup>RTI International, Chicago, IL; <sup>4</sup>MITRE Corporation, Maclean, VA; <sup>5</sup>Northshore University, Evanston, IL; <sup>6</sup>Veterans Administration Medical Center, Fayetteville, NC; <sup>7</sup>Westat, Rockville, MD; <sup>8</sup>University of Maryland, Baltimore, MD
+
 <hr>
  
 ### Educational Objectives:
@@ -24,6 +25,7 @@ We would like to thank the organizations and contributors to the technologies an
 - SMART Health IT
 ### Disclosure: 
 The content in this tutorial is up to date as of October 2020 and is derived directly from open-source materials. The tools are presented “As is”. Please refer to the original software repositories and documentation for updates and version control. The materials and content displayed in this workshop do not reflect the official policy or position of any agency, organization, or employer. The authors do not accept any responsibility for any of the source materials and software. 
+
 <hr>
 
 ## Presenters
@@ -33,3 +35,8 @@ The content in this tutorial is up to date as of October 2020 and is derived dir
 - **Summation and Discussion** (25 minutes) - Led by Lisa Schilling
 - **Facilitators**: Majid Afshar, Joshua E. Richardson, Chris Moesel, Anthony Solomonides, Eleanor Barone, Eric Pan, Michael A. Grasso, Lisa Schilling
 
+#### Support and Help
+During the workshop, the presenters will be available to answer questions through Q&A.
+
+The presenters have created a Slack channel to engage participants and provide help on setting up their VMs and tools. 
+The Slack channel is: [#the-new-digital-age-of-cds-tools](https://amia2020cdsto-wg54713.slack.com). This Slack channel will be maintained for the duration of the AMIA 2020 Symposium.
