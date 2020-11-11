@@ -18,6 +18,8 @@
 
 > Download VM from here: [CDS Sandbox VM_11082020.ova](https://ucdenver.egnyte.com/dl/oO09Ok3CgA)
 
+> Prerequisite instructions: [AMIA 2020 Workshop01 Prerequisites.pdf](https://github.com/CUD2V/amia2020-cds-workshop/blob/master/AMIA%202020%20Workshop01%20Prerequisites.pdf)
+
 ### Acknowledgements:
 We would like to thank the organizations and contributors to the technologies and open-source tools used in this tutorial. 
 - AHRQ 
