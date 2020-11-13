@@ -20,6 +20,8 @@
 
 > Prerequisite instructions: [AMIA 2020 Workshop01 Prerequisites.pdf](https://github.com/CUD2V/amia2020-cds-workshop/blob/master/AMIA%202020%20Workshop01%20Prerequisites.pdf)
 
+> Slack channel: [#the-new-digital-age-of-cds-tools](https://amia2020cdsto-wg54713.slack.com)
+
 ### Acknowledgements:
 We would like to thank the organizations and contributors to the technologies and open-source tools used in this tutorial. 
 - AHRQ 
